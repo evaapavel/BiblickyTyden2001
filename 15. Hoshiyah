@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>15. Hoshiyah</title>
+  <title>15. Hoshiyah (1 sloka)</title>
   <author></author>
   <copyright></copyright>
   <hymn_number>15</hymn_number>
@@ -16,11 +16,11 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[V1]
- Hošija et amecha
+  <lyrics>
+[V1]
+ 1. Hošija et amecha
  u barech v nachalatecha
  [: Urem urem urem
  urem v nasem
- urem v nasem ad haólam :]
- 
- </lyrics></song>
+ urem v nasem ad haólam :]</lyrics>
+</song>

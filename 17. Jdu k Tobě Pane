@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>17. Jdu k Tobě Pane</title>
+  <title>17. Jdu k Tobě Pane (2 sloky)</title>
   <author></author>
   <copyright></copyright>
   <hymn_number>17</hymn_number>
@@ -16,8 +16,9 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[V1]
- Ty jsi Pán a Bůh,
+  <lyrics>
+[V1]
+ 1. Ty jsi Pán a Bůh,
  k Tobě přichází můj duch.
  Změň prosím srdce mé,
  máš tu moc, jsi Král.
@@ -27,7 +28,7 @@
  aby změnila nás.
  
 [C]
- Můj Pane, drž mě pevně láskou svou.
+ Ref.: Můj Pane, drž mě pevně láskou svou.
  Můj Pane, sílu mi dáváš.
  A já čekám, že jako orel vzlétnu výš,
  jen v moci lásky Tvé,
@@ -35,12 +36,12 @@
  Duchem Tvým dám se vést.
  
 [V2]
- Otče můj chci být
+ 2. Otče můj chci být
  tím, kdo Tebe zná a mít
  Tvé lásky plný stůl,
  pro druhé tu být.
  Chci konat vůli Tvou,
  tak žít na každý den s vírou,
  že Ty mě proměníš,
- to je naděje má.
- </lyrics></song>
+ to je naděje má.</lyrics>
+</song>

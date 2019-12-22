@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>42. Plné ruce, plná ústa díků</title>
+  <title>42. Plné ruce, plná ústa díků (3 sloky)</title>
   <author></author>
   <copyright></copyright>
   <hymn_number>42</hymn_number>
@@ -16,8 +16,9 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[V1]
- Plné ruce, plná ústa díků,
+  <lyrics>
+[V1]
+ 1. Plné ruce, plná ústa díků,
  Každý den vždy nový důvod mít
  Chválu vzdávat bez frází a zvyků,
  Nauč nás žít, nauč nás žít.
@@ -26,13 +27,13 @@
  a kdo ví to, zpívat nepřestává.
  
 [C]
- Haleluja, my ty i já,
+ Ref.: Haleluja, my ty i já,
  Haleluja, ať zní chvála jásavá.
  Haleluja, haleluja, haleluja,
  Ať zní chvála jásavá.
  
 [V2]
- Plné oči, plná ústa chvály,
+ 2. Plné oči, plná ústa chvály,
  tolik pěkných věcí kolem nás,
  nezahálí, kdo v životě chválí,
  dál půjde snáz, dál půjde snáz.
@@ -41,11 +42,11 @@
  a kdo ví to, zpívat nepřestává.
  
 [V3]
- La-la, la-la, la-la, la-la, la, la,
+ 3. La-la, la-la, la-la, la-la, la, la,
  la-la, la-la, la-la, la-la, la,
  la-la, la-la, la-la, la-la, la, la,
  la-la-la, la, la-la-la, la,
  Všem lidem své dary Pán Bůh dává,
  není, kdo by s prázdnou musel jít,
- a kdo ví to, zpívat nepřestává.
- </lyrics></song>
+ a kdo ví to, zpívat nepřestává.</lyrics>
+</song>

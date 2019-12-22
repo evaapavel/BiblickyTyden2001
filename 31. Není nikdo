@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>31. Není nikdo</title>
+  <title>31. Není nikdo (2 sloky)</title>
   <author></author>
   <copyright></copyright>
   <hymn_number>31</hymn_number>
@@ -16,24 +16,25 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[C1]
- Není nikdo, není nikdo,
+  <lyrics>
+[C1]
+ Ref. 1: Není nikdo, není nikdo,
  není nikdo jako Ty.
  Není nikdo, není nikdo,
  není nikdo jako Ty.
  
 [V1]
- Kdo potěší moje srdce,
+ 1. Kdo potěší moje srdce,
  není nikdo jako Ty.
  Kdo pohladí moji duši,
  není nikdo jako Ty.
  
 [C2]
- Není nikdo, není nikdo,
+ Ref. 2: Není nikdo, není nikdo,
  není nikdo jako Ty.
  
 [V2A]
- Kdo očistí moje tělo,
+ 2. Kdo očistí moje tělo,
  není nikdo jako Ty,
  kdo podepře mýho ducha,
  není nikdo jako Ty.
@@ -45,9 +46,9 @@
  není nikdo jako Ty.
  
 [C3]
- Zavolej na mě, Pane,
+ Ref. 3: Zavolej na mě, Pane,
  já poběžím Ti vstříc,
  z mých rtů dej ať zazní
  to, co Ti chci říct,
- že totiž
- </lyrics></song>
+ že totiž</lyrics>
+</song>

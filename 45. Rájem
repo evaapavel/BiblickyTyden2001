@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>45. Rájem</title>
+  <title>45. Rájem (2 sloky)</title>
   <author>J. M. Talbot / J. Hrubý</author>
   <copyright></copyright>
   <hymn_number>45</hymn_number>
@@ -16,8 +16,9 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[C]
- Rájem jednou chtěl bych jít,
+  <lyrics>
+[C]
+ Ref.: Rájem jednou chtěl bych jít,
  chci se smát a být,
  tam, kde je můj Pán.
  Rájem zpěv až bude znít,
@@ -25,7 +26,7 @@
  kolik mám jí sám.
  
 [V1]
- Střípky Božího království,
+ 1. Střípky Božího království,
  které na svět seslal Pán,
  sbírat chci srdcem svým vychladlým.
  Ráje až přijde čas,
@@ -33,11 +34,10 @@
  a ten žár, jímž je Bůh.
  
 [V2]
- Abych se učil žít,
+ 2. Abych se učil žít,
  proto Pán mi život dal,
  abych uměl mít rád, jak si přál.
  Když nebudu lásku mít,
  nedokážu žít, snést krásu
- a ten žár, jímž je Bůh.
- 
- </lyrics></song>
+ a ten žár, jímž je Bůh.</lyrics>
+</song>

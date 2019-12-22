@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>6. De profundis</title>
+  <title>6. De profundis (3 sloky)</title>
   <author></author>
   <copyright></copyright>
   <hymn_number>6</hymn_number>
@@ -16,27 +16,28 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[V1]
- Temnou, divnou mlhou bloudím sem a tam,
+  <lyrics>
+[V1]
+ 1. Temnou, divnou mlhou bloudím sem a tam,
  černá s bílou smíchaly se spolu.
  Nevidím už, co je pravdy, co je klam, nevím,
  jdu-li nahoru či dolů.
  
 [C]
- Řekni slovo, řekni slovo, Pane,
+ Ref.: Řekni slovo, řekni slovo, Pane,
  ať pomine tahle šedá tma,
  řekni slovo a zázrak se stane,
- uzdravena bude duše má. 
+ uzdravena bude duše má.
  
 [V2]
- Nerozeznám dobře okraj propasti,
+ 2. Nerozeznám dobře okraj propasti,
  nevím, je-li na krok dosti místa.
  Strach mám, abych neupadl do pasti,
  kterou na mne pokušení chystá.
  
 [V3]
- Přízrak noční sleduje mne potají,
+ 3. Přízrak noční sleduje mne potají,
  divné hlasy otázku mi kladou,
  divné hlasy otázku mi šeptají,
- k čemu věrnost, nač pohrdat zradou.
- </lyrics></song>
+ k čemu věrnost, nač pohrdat zradou.</lyrics>
+</song>

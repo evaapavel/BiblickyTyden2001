@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>27. Můj Pán je se mnou</title>
+  <title>27. Můj Pán je se mnou (1 sloka)</title>
   <author></author>
   <copyright></copyright>
   <hymn_number>27</hymn_number>
@@ -16,15 +16,16 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[V1]
- Otče můj, dnešní den do Tvých rukou vkládám jen,
+  <lyrics>
+[V1]
+ 1. Otče můj, dnešní den do Tvých rukou vkládám jen,
  Duchem Svatým veď mne sám, zde očekávám.
  Pane, Ty máš moc mi dát, abych zůstal pevně stát,
  milost Tvá buď silou mou, sobě žádám.
  
 [C]
- Můj Pán je se mnou, odpustil můj hřích,
+ Ref.: Můj Pán je se mnou, odpustil můj hřích,
  můj Pán je se mnou, dal mi své spasení,
  můj Pán je se mnou, dobře zná starosti mé
- a má moc mne zachovat pro království své.
- </lyrics></song>
+ a má moc mne zachovat pro království své.</lyrics>
+</song>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>61. Zde ruce mé</title>
+  <title>61. Zde ruce mé (3 sloky)</title>
   <author></author>
   <copyright></copyright>
   <hymn_number>61</hymn_number>
@@ -16,27 +16,28 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[V1]
- Zde ruce mé, jich užij Ty
+  <lyrics>
+[V1]
+ 1. Zde ruce mé, jich užij Ty
  za zbodené své z Golgaty,
  jež znaly práci tesařskou,
  teď  hřeb v nich tkví pro spásu mou.
  
 [C]
- Už větší dar nemůže být,
+ Ref.: Už větší dar nemůže být,
  než Bůh mi dal, smět v Kristu žít.
  Vždyť daroval jej provždy všem,
  dar největší: být spasen v Něm.
  
 [V2]
- Dám srdce své pro lásku Tvou
+ 2. Dám srdce své pro lásku Tvou
  prokázanou tam Golgatou.
  Nezemřela Tvá láska tam,
  svým srdcem dál nést lásku mám.
  
 [V3]
- Zde život můj, žij Ty již mnou,
+ 3. Zde život můj, žij Ty již mnou,
  jsem obživen Tvou Golgatou.
  Nám pouta sňal na kříži Bůh,
- pro něho žít, toť lásky dluh.
- </lyrics></song>
+ pro něho žít, toť lásky dluh.</lyrics>
+</song>

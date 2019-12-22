@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>19. Jen ty Pane můj</title>
+  <title>19. Jen ty Pane můj (4 sloky)</title>
   <author></author>
   <copyright></copyright>
   <hymn_number>19</hymn_number>
@@ -16,25 +16,26 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[C]
- [: Jen ty, Pane můj,
+  <lyrics>
+[C]
+ Ref.: [: Jen ty, Pane můj,
  jen tys můj štít,
  má sláva,
  ty mou hlavu pozvedáš :]
  
 [V1]
- [: Mnoho je těch, kteří kolem volají:
+ 1. [: Mnoho je těch, kteří kolem volají:
  V Bohu žádnou pomoc nenajdeš:]
  
 [V2]
- [: Volal jsem k Pánu svému v úzkosti,
+ 2. [: Volal jsem k Pánu svému v úzkosti,
  a on prosbu moji vyslyšel :]
  
 [V3]
- [: Ty mi dáváš spánek, novou sílu,
+ 3. [: Ty mi dáváš spánek, novou sílu,
  v novém dni mě znovu podpíráš :]
  
 [V4]
- [: Nebudu se bát ani tisíců těch,
- kdo mě pronásledují :]
- </lyrics></song>
+ 4. [: Nebudu se bát ani tisíců těch,
+ kdo mě pronásledují :]</lyrics>
+</song>

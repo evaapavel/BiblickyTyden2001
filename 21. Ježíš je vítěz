@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>21. Ježíš je vítěz</title>
+  <title>21. Ježíš je vítěz (3 sloky)</title>
   <author></author>
   <copyright></copyright>
   <hymn_number>21</hymn_number>
@@ -16,12 +16,13 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[V1]
-  [: Ježíš je vítěz, ó haleluja, haleluja, Pána chval! :] 2x
+  <lyrics>
+[V1]
+ 1. [: Ježíš je vítěz, ó haleluja, haleluja, Pána chval! :] 2x
  
 [V2]
-  [: Ježíš je spása, ó haleluja, haleluja, Pána chval! :] 2x
+ 2. [: Ježíš je spása, ó haleluja, haleluja, Pána chval! :] 2x
  
 [V3]
-  [: Ježíš je s námi, ó haleluja, haleluja, Pána chval! :] 2x
- </lyrics></song>
+ 3. [: Ježíš je s námi, ó haleluja, haleluja, Pána chval! :] 2x</lyrics>
+</song>

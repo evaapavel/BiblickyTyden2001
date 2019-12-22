@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>41. Pádem (Otče náš)</title>
+  <title>41. Pádem (Otče náš) (2 sloky)</title>
   <author>Žalman</author>
   <copyright></copyright>
   <hymn_number>41</hymn_number>
@@ -16,21 +16,22 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[C]
- Pádem, volným pádem
+  <lyrics>
+[C]
+ Ref.: Pádem, volným pádem
  mezi stádem nevěřících
  můžem, zítra můžem
  být jen stínem, otče náš
  
 [V1]
- My víme, dnes to víme
+ 1. My víme, dnes to víme
  že nás víra ze dna sbírá
  a když bída hojnost střídá
  tvůj dech cítím, otče náš
  
 [V2]
- Tvá záře, bílá záře
+ 2. Tvá záře, bílá záře
  dává sílu velkým cílům
  tváře, smutné tváře
- zjasní láskou, otče náš
- </lyrics></song>
+ zjasní láskou, otče náš</lyrics>
+</song>

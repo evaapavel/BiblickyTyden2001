@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>11. Haleluja</title>
+  <title>11. Haleluja (2 sloky)</title>
   <author></author>
   <copyright></copyright>
   <hymn_number>11</hymn_number>
@@ -16,25 +16,25 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[C]
- Haleluja, ať zní ze všech úst,
+  <lyrics>
+[C]
+ Ref.: Haleluja, ať zní ze všech úst,
  haleluja, ať zní k nebesům,
  haleluja, ať Bůh slyší nás,
  prozpěvuj Sione vykoupený -
  Pán zvítězil.
  
 [V1]
- On těžký kříž nesl kvůli nám,
+ 1. On těžký kříž nesl kvůli nám,
  na Golgotě zvítězil.
  Bůh odpouští za to vítězství
  hříchy tvé, hříchy tvé.
  Tak zpívej
  
 [V2]
- Až zazní hlas polnic andělských,
+ 2. Až zazní hlas polnic andělských,
  Bůh tělo tvé promění;
  pak zavoláš: "Kde je osten tvůj,
  smrti zlá, smrti zlá?"
- Tak zpívej
- 
- </lyrics></song>
+ Tak zpívej</lyrics>
+</song>

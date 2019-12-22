@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>35. Ód jiššama</title>
+  <title>35. Ód jiššama (2 sloky)</title>
   <author>Jeremjáš 33, 10 - 11</author>
   <copyright></copyright>
   <hymn_number>35</hymn_number>
@@ -16,19 +16,20 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[C1]
-  [: Od jiššama barej jehuda
-  ú-b-chucót Jerušalaájim :]
+  <lyrics>
+[C1]
+ Ref. 1: [: Od jiššama barej jehuda
+ ú-b-chucót Jerušalaájim :]
  
 [V1]
-  [: Qó-ol sasón v qó-ól simcha
-  qó-ól chatan v qó-ól kalá :]
+ 1. [: Qó-ol sasón v qó-ól simcha
+ qó-ól chatan v qó-ól kalá :]
  
 [C2]
-  [: Zpěv bude slyšet ve všech městech Judy
-  a na ulicích Jeruzaléma :]
+ Ref. 2: [: Zpěv bude slyšet ve všech městech Judy
+ a na ulicích Jeruzaléma :]
  
 [V2]
-  [: Hlas veselí a hlas radosti
-  hlas ženicha a hlas nevěsty :]
- </lyrics></song>
+ 2. [: Hlas veselí a hlas radosti
+ hlas ženicha a hlas nevěsty :]</lyrics>
+</song>

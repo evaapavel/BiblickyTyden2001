@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>40. Ovečky</title>
+  <title>40. Ovečky (3 sloky)</title>
   <author></author>
   <copyright></copyright>
   <hymn_number>40</hymn_number>
@@ -16,31 +16,32 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[V1]
- Každým ránem za svítání,
+  <lyrics>
+[V1]
+ 1. Každým ránem za svítání,
  pastýř ovečky vyhání,
  do hor, kam nás ptáci zpěvem zvou,
  kde svět je jednou velkou krásnou zahradou.
  
 [C1]
- Ať si s námi každý zpívá,
+ Ref. 1: Ať si s námi každý zpívá,
  pastýř ovečky že hlídá,
  jdou jen tam, kam vlci nemohou,
  kde pravé štěstí, lásku, pokoj naleznou.
  
 [V2]
- Vysoko tu slunce svítí,
+ 2. Vysoko tu slunce svítí,
  stráně voní polním kvítím,
  skřivan dávno ladí flétnu svou
  a celá zem tu dýchá lásky ozvěnou.
  
 [V3]
- Jako vždy i dnešním ránem
+ 3. Jako vždy i dnešním ránem
  vyráží zas za svým pánem,
  za světlem, co projde každou tmou.
  Když půjdou spolu, nikdy z cesty nesejdou.
  
 [C2]
- Ovečky si všechny rovné jsou,
- vědí, že bez pastýře domov nenajdou.
- </lyrics></song>
+ Ref. 2: Ovečky si všechny rovné jsou,
+ vědí, že bez pastýře domov nenajdou.</lyrics>
+</song>

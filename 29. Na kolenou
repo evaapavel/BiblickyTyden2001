@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>29. Na kolenou</title>
+  <title>29. Na kolenou (4 sloky)</title>
   <author></author>
   <copyright></copyright>
   <hymn_number>29</hymn_number>
@@ -16,19 +16,20 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[V1]
-  [: Nejkrásnější chvíle vždycky jsou na kolenou :]
+  <lyrics>
+[V1]
+ 1. [: Nejkrásnější chvíle vždycky jsou na kolenou :]
  
 [C]
-  V modlitbách když budeš stát, Duch svatý začne vát,
-  nejkrásnější chvíle vždycky jsou na kolenou
+ Ref.: V modlitbách když budeš stát, Duch svatý začne vát,
+ nejkrásnější chvíle vždycky jsou na kolenou
  
 [V2]
-  [: Sílu opustit svůj hřích jsem dostal na kolenou :]
+ 2. [: Sílu opustit svůj hřích jsem dostal na kolenou :]
  
 [V3]
-  [: Sílu začít nově žít jsem dostal na kolenou :]
+ 3. [: Sílu začít nově žít jsem dostal na kolenou :]
  
 [V4]
-  [: Duchem svým mě Ježíš naplnil na kolenou :]
- </lyrics></song>
+ 4. [: Duchem svým mě Ježíš naplnil na kolenou :]</lyrics>
+</song>

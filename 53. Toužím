@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>53. Toužím</title>
+  <title>53. Toužím (2 sloky)</title>
   <author></author>
   <copyright></copyright>
   <hymn_number>53</hymn_number>
@@ -16,21 +16,22 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[V1]
- Toužím, po tobě toužím,
+  <lyrics>
+[V1]
+ 1. Toužím, po tobě toužím,
  toužím tě poznávat,
  Tvou láskou, věčnou láskou
  nechat se objímat.
  
 [C]
- Bože, má spáso,
+ Ref.: Bože, má spáso,
  veď mě dál,
  v nádvořích Tvých
  chci být i já.
  
 [V2]
- Hledám, Tebe hledám,
+ 2. Hledám, Tebe hledám,
  křídla Tvá jsou skrýší mou.
  Chválím, Tebe chválím,
- objímáš mě mocí svou.
- </lyrics></song>
+ objímáš mě mocí svou.</lyrics>
+</song>

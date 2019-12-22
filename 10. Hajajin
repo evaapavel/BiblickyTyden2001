@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>10. Hajajin</title>
+  <title>10. Hajajin (1 sloka)</title>
   <author></author>
   <copyright></copyright>
   <hymn_number>10</hymn_number>
@@ -16,9 +16,10 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[V1]
- Zo hakos hi habrit hachadaša
+  <lyrics>
+[V1]
+ 1. Zo hakos hi habrit hachadaša
  bdami hani špach b-adchem
  bdami bdami
- zo hakós hachadaša
- </lyrics></song>
+ zo hakós hachadaša</lyrics>
+</song>

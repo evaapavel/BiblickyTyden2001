@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>52. To já, ó, Pane můj</title>
+  <title>52. To já, ó, Pane můj (2 sloky)</title>
   <author></author>
   <copyright></copyright>
   <hymn_number>52</hymn_number>
@@ -16,14 +16,15 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[C]
- To já, ó, Pane můj,
+  <lyrics>
+[C]
+ Ref.: To já, ó, Pane můj,
  stojím tady v modlitbách,
  to já, ó, Pane můj,
  stojím tady v modlitbách.
  
 [V1]
- Ani matka, ani otec,
+ 1. Ani matka, ani otec,
  ale jsem to já,
  stojím tady v modlitbách,
  ani kněz můj, ani vládce,
@@ -31,10 +32,10 @@
  stojím tady v modlitbách.
  
 [V2]
- Ani kněz můj, ani vládce,
+ 2. Ani kněz můj, ani vládce,
  ale jsem to já,
  stojím tady v modlitbách,
  ani kněz můj, ani vládce,
  ale jsem to já,
- stojím tady v modlitbách.
- </lyrics></song>
+ stojím tady v modlitbách.</lyrics>
+</song>

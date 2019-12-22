@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>13. Hine ma tov</title>
+  <title>13. Hine ma tov (1 sloka)</title>
   <author></author>
   <copyright></copyright>
   <hymn_number>13</hymn_number>
@@ -16,8 +16,8 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[V1]
- [: Hine ma tov umanajim
- šebet achim gam jachad :] 4x
- 
- </lyrics></song>
+  <lyrics>
+[V1]
+ 1. [: Hine ma tov umanajim
+ šebet achim gam jachad :] 4x</lyrics>
+</song>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>68. Věrný a stálý jsi</title>
+  <title>68. Věrný a stálý jsi (3 sloky)</title>
   <author></author>
   <copyright></copyright>
   <hymn_number>68</hymn_number>
@@ -16,32 +16,33 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[V1]
- Věrný a stálý jsi, Otče náš milý,
+  <lyrics>
+[V1]
+ 1. Věrný a stálý jsi, Otče náš milý,
  žádný tě v lásce tvé nepřekoná.
  Vše kolem zvěstuje každičkou chvíli,
  že nikdo víc než ty nevykoná.
  
 [C]
- Velká je věrnost tvá,
+ Ref.: Velká je věrnost tvá,
  nesmírná věrnost tvá,
  každého dne dáváš lásku nám znát.
  Všechno, co máme, je z milosti tvojí,
  velká je láska tvá, jíž nás máš rád.
  
 [V2]
- Celá tvá příroda o tobě svědčí,
+ 2. Celá tvá příroda o tobě svědčí,
  zima i léto i podzimu čas,
  jarního slunce jas tvá láska předčí,
  věrně nás vésti chce do lepších krás.
  
 [V3]
- Odpouštíš hříchy nám,
+ 3. Odpouštíš hříchy nám,
  pokoj svůj dáváš,
  když s tebou můžem být,
  nechceme víc,
  v milosti své k sobě
  nás povoláváš,
  věčnému životu
- jdeme již vstříc.
- </lyrics></song>
+ jdeme již vstříc.</lyrics>
+</song>

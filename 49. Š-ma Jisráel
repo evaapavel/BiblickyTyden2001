@@ -16,11 +16,12 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[C]
-  [: Šma Jisrael
-  Adonaj Elohejnu
-  Adonaj Echad :] |
-  [: Šma Jisrael
-  Adonaj Elohejnu
-  Adonaj Echad :]
- </lyrics></song>
+  <lyrics>
+[C]
+ Ref.: [: Šma Jisrael
+ Adonaj Elohejnu
+ Adonaj Echad :] |
+ [: Šma Jisrael
+ Adonaj Elohejnu
+ Adonaj Echad :]</lyrics>
+</song>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>32. Nezná tu nikdo soužení mé</title>
+  <title>32. Nezná tu nikdo soužení mé (2 sloky)</title>
   <author></author>
   <copyright></copyright>
   <hymn_number>32</hymn_number>
@@ -16,15 +16,16 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[C]
- Nezná tu nikdo soužení mé, to zná snad jenom Ježíš.
+  <lyrics>
+[C]
+ Ref.: Nezná tu nikdo soužení mé, to zná snad jenom Ježíš.
  Nezná tu nikdo soužení mé, sláva, haleluja.
  
 [V1]
- Jsem nahoře a zase níž, Pane můj!
+ 1. Jsem nahoře a zase níž, Pane můj!
  A někdy zcela na dně již, Pane můj!
  
 [V2]
- Ač dále kráčet mne tu zříš, Pane můj,
- já stále vleču ten svůj kříž, Pane můj.
- </lyrics></song>
+ 2. Ač dále kráčet mne tu zříš, Pane můj,
+ já stále vleču ten svůj kříž, Pane můj.</lyrics>
+</song>

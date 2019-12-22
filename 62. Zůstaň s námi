@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>62. Zůstaň s námi</title>
+  <title>62. Zůstaň s námi (3 sloky)</title>
   <author></author>
   <copyright></copyright>
   <hymn_number>62</hymn_number>
@@ -16,14 +16,15 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[C]
- Zůstaň s námi, Pane, když se stmívá,
+  <lyrics>
+[C]
+ Ref.: Zůstaň s námi, Pane, když se stmívá,
  zůstaň s námi, den se nachýlil.
  Zůstaň s námi, už se připozdívá,
  zůstaň s námi, když ubývá sil.
  
 [V1]
- Nad bázlivou duší
+ 1. Nad bázlivou duší
  a nad slabým tělem
  slituj se, Pane,
  lačným chléb svůj dej,
@@ -33,7 +34,7 @@
  nové víno vlej.
  
 [V2]
- Otevírej oči,
+ 2. Otevírej oči,
  které nevidí tě,
  nevidí pravdu,
  znají jenom klam.
@@ -43,12 +44,12 @@
  řekni Pokoj vám!
  
 [V3]
- Do svých ran vlož ruce
+ 3. Do svých ran vlož ruce
  skleslé pochybností,
  zrno v zem vsáté
  zas nám připomeň,
  pozvání k slávě tvé,
  bílé roucho hostí,
  čas, který chystá
- přebohatou žeň.
- </lyrics></song>
+ přebohatou žeň.</lyrics>
+</song>

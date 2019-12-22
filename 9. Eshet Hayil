@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>9. Eshet Hayil</title>
+  <title>9. Eshet Hayil (2 sloky)</title>
   <author></author>
   <copyright></copyright>
   <hymn_number>9</hymn_number>
@@ -16,15 +16,16 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[V1]
- Ešet chajil mi jimca
+  <lyrics>
+[V1]
+ 1. Ešet chajil mi jimca
  vrachoq mipninim mikra
  batach ba lev baala
  v šalal lo jechsar
  
 [V2]
- Darša cemer upištim
+ 2. Darša cemer upištim
  vatas bechefec kápejha
  batach ba lev baala
- v šalal lo jechsar
- </lyrics></song>
+ v šalal lo jechsar</lyrics>
+</song>

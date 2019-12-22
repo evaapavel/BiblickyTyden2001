@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>28. Můj Pán všechny svolá</title>
+  <title>28. Můj Pán všechny svolá (3 sloky)</title>
   <author>Miloš Rejchrt</author>
   <copyright></copyright>
   <hymn_number>28</hymn_number>
@@ -16,27 +16,28 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[C]
- Můj Pán všechny svolá
+  <lyrics>
+[C]
+ Ref.: Můj Pán všechny svolá
  ráno, až se rozední.
  Můj Pán všechny svolá
  ráno v ten den poslední.
  
 [V1]
- Uslyšíš pak, jak z hrobů temných
+ 1. Uslyšíš pak, jak z hrobů temných
  stoupá mu vstříc chvalozpěv věrných.
  Můj Pán všechny svolá
  ráno v ten den poslední.
  
 [V2]
- Uvidíš pak, jak pláčou hříšní,
+ 2. Uvidíš pak, jak pláčou hříšní,
  padají v prach králové pyšní.
  Můj Pán všechny svolá
  ráno v ten den poslední.
  
 [V3]
- A poznáš, že až skončí boje,
+ 3. A poznáš, že až skončí boje,
  zbaveny pout jsou ruce tvoje.
  Můj Pán všechny svolá
- ráno v ten den poslední.
- </lyrics></song>
+ ráno v ten den poslední.</lyrics>
+</song>
